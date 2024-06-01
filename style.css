@@ -261,9 +261,9 @@ span {
     .back {
         margin-right: 500px;
     }
-} */
+/* } 
 
-@media (max-width:1280px) {
+/* @media (max-width:1280px) {
     .tut{
         margin-left: 50px;
     }
@@ -282,6 +282,27 @@ span {
     .background {
         width: 465px;
     }
+}  */
+/* 
+@media (max-width:1369px) {
+    .content-text h1 {
+        font-size: 3.3rem;
+    }
+    .image {
+        width: 780px;
+    }
+    .tut {
+        position: relative;
+        left: 50px;
+    }
+} */
+/* 
+@media (max-width:992px) {
+    .tut {
+        margin-left: 80px;
+    }
 }
+  */
+
 
 
